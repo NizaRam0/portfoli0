@@ -144,15 +144,15 @@ button:hover{
         height:60%;
     }
     #header{
-        height:20% ;
+        height:15% ;
     }
     #pfp{
         width:100px;
-        margin-top: 3%;
+        margin-top: 1%;
     }
 
     #pname {
-        font-size: 35px;
+        font-size: 32px;
         margin-top: 6%;
 
     }
