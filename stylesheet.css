@@ -39,7 +39,7 @@ body{
 
 }
 #pfp{
-    margin-top: 10%;
+    margin-top: 5%;
     width:100px;
     border-radius: 55%;
     border: #ffffff 2px solid;
@@ -65,7 +65,7 @@ body{
 
 }
 #prof {
-    margin-top: 2%;
+    margin-top: -2%;
     font-size: 25px;
     font-weight: bold;
     color: grey;
@@ -142,7 +142,7 @@ button:hover{
 
 
 
-@media screen and (max-width: 820px) {
+@media screen and (max-width: 850px) {
     #container {
         width: 90%;
         height:60%;
