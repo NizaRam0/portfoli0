@@ -148,7 +148,7 @@ button:hover{
         height:15% ;
     }
     #image{
-    padding-top: 2%;
+    padding-top: 5%;
 
     display:flex;
     justify-content: center;
@@ -156,12 +156,12 @@ button:hover{
 }
     #pfp{
         width:100px;
-        margin-top: -2%;
+        margin-top: 4%;
         
     }
 
     #pname {
-        font-size: 2px;
+        font-size: 28px;
         margin-top: 6%;
         
 
