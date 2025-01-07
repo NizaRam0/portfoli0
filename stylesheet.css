@@ -41,7 +41,7 @@ body{
 }
 #pfp{
     margin-top: 3%;
-    width:1px;
+    width:100px;
     border-radius: 55%;
     border: #ffffff 2px solid;
 
@@ -142,15 +142,15 @@ button:hover{
 @media screen and (max-width: 850px) {
     #container {
         width: 100%;
-        height:auto;
+        height:75%;
     }
     #header{
         height:20% ;
     }
     #pfp{
-        width:10px;
+        width:100px;
         margin-top: 2%;
-        display:bock;
+        display:block;
     }
 
     #pname {
@@ -208,7 +208,7 @@ button:hover{
     #pfp{
         width:100px;
         margin-top: 4%;
-        display:bock;
+        display:block;
     }
 
     #pname {
