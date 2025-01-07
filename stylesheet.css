@@ -181,6 +181,12 @@ button:hover{
         display: inline-block;
 
     }
+    #thank{
+        margin-top: 2%;
+        text-align: center;
+        color: darkred;
+        font-size: 12px;
+    }
 }
 
 
@@ -227,6 +233,12 @@ button:hover{
         font-family: "Pridi", serif;
         display: inline-block;
 
+    }
+        #thank{
+        margin-top: 2%;
+        text-align: center;
+        color: darkred;
+        font-size: 14px;
     }
 }
 
