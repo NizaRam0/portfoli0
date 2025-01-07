@@ -149,6 +149,7 @@ button:hover{
     #pfp{
         width:100px;
         margin-top: -4%;
+        display:bock;
     }
 
     #pname {
@@ -190,7 +191,7 @@ button:hover{
     }
 
     #header {
-        height: 15%;
+        height: 1%;
     }
 
     #pfp {
