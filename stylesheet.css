@@ -251,13 +251,13 @@ button:hover{
         height:20% ;
     }
     #pfp{
-        width:90px;
-        margin-top: 4%;
+        width:80px;
+        margin-top: 2%;
         display:bock;
     }
 
     #pname {
-        font-size: 18px;
+        font-size: 20px;
         margin-top: 6%;
 
     }
