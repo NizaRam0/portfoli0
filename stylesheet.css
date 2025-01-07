@@ -141,14 +141,14 @@ button:hover{
 @media screen and (max-width: 850px) {
     #container {
         width: 90%;
-        height:60%;
+        height:70%;
     }
     #header{
         height:15% ;
     }
     #pfp{
         width:100px;
-        margin-top: 1%;
+        margin-top: -4%;
     }
 
     #pname {
