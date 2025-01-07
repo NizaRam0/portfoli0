@@ -241,6 +241,59 @@ button:hover{
         font-size: 14px;
     }
 }
+@supports (-webkit-touch-callout: none) {
+@media screen and (max-width: 850px) {
+    #container {
+        width: 100%;
+        height:70%;
+    }
+    #header{
+        height:20% ;
+    }
+    #pfp{
+        width:90px;
+        margin-top: 4%;
+        display:bock;
+    }
+
+    #pname {
+        font-size: 18px;
+        margin-top: 6%;
+
+    }
+    #prof {
+        font-size: 12px;
+        width: 150px;
+        margin-top: -3%;
+    }
+
+    .icon {
+        width: 40px;
+        margin-top: 2%;
+    }
+
+    .listbttn {
+        margin-top: 6%;
+        font-family: "Pridi", serif;
+        display: inline-block;
+
+
+    }
+    .listi {
+        margin-top: 6%;
+        font-family: "Pridi", serif;
+        display: inline-block;
+
+    }
+    #thank{
+        margin-top: 2%;
+        text-align: center;
+        color: darkred;
+        font-size: 12px;
+    }
+}
+}
+
 
 
 
