@@ -4,7 +4,7 @@ function openPdf(){
 
 }
 function openProj(){
-    window.open('https://example.com','_blank');
+    window.open('projects.html','_blank');
 
 }
 
